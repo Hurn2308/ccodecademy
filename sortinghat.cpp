@@ -61,7 +61,7 @@ int main(){
     std::cout << "Invalid Input!\n";
   }
 
-  std::cout << "Q4) Which road tempts you most?\n" << "\n 1)The wide, sunny grassy lane\n" << " 2)The narrow, dark, lantern-lit alley" << " 3)The twisiting, leaf-strewn path through woods\n" << " 4)The cobbled street lined (ancient buildings)\n";
+  std::cout << "Q4) Which road tempts you most?\n" << "\n 1)The wide, sunny grassy lane\n" << " 2)The narrow, dark, lantern-lit alley\n" << " 3)The twisiting, leaf-strewn path through woods\n" << " 4)The cobbled street lined (ancient buildings)\n";
   std::cin >> a4;
 
   if(a4 == 1){
